@@ -1,0 +1,72 @@
+body {
+    background-color: #423F42;
+}
+.banner {
+    padding-bottom:0px;
+    background-color: #423F42;
+    border-bottom: solid;
+    border-color: white;
+    border-width: auto;
+}
+
+.navigation {
+    background-color: #423F42;
+    border-top: solid white;
+    padding-top: 0px;
+}
+
+
+a {
+    color: white;
+}
+li {
+    color: white;
+}
+.nav-pills .nav-item .nav-link {
+    background-color: black;
+    font-weight: bold;
+}
+
+.nav-pills .nav-item .nav-link:not(.active) {
+    background-color: #423F42;
+    font-weight: normal;
+}
+.nav-pills .nav-item .nav-link:not(.active):hover {
+    background-color: #423F42;
+    font-weight: bold;
+    color: black;
+}
+
+#welcome-container{
+    padding-top: 5px;
+    border-top: solid #FF812E;
+}
+#proyects-container{
+    padding-top: 5px;
+    border-top: solid #14A62B;
+}
+#hobbies-container{
+    padding-top: 5px;
+    border-top: solid #FFE500;
+}
+#exp-container{
+    padding-top: 5px;
+    border-top: solid #0DA3FF;
+}
+
+h1, h2, h3 {
+    color: black;
+}
+p {
+    color: lightgray;
+}
+.photo-card{
+    margin: 10px;
+    background-color: #423F42;
+    border: none;
+}
+strong {
+    color:white;
+}
+
+
