@@ -40,22 +40,29 @@ li {
 #welcome-container{
     padding-top: 5px;
     border-top: solid #FF812E;
+    border-top-width: 10px;
 }
 #proyects-container{
     padding-top: 5px;
     border-top: solid #14A62B;
+    border-top-width: 10px;
 }
 #hobbies-container{
     padding-top: 5px;
     border-top: solid #FFE500;
+    border-top-width: 10px;
 }
 #exp-container{
     padding-top: 5px;
     border-top: solid #0DA3FF;
+    border-top-width: 10px;
 }
-
+.footer {
+    border-top-width: 2px;
+    border-top: solid white;
+}
 h1, h2, h3 {
-    color: black;
+    color: white;
 }
 p {
     color: lightgray;
