@@ -1,0 +1,6 @@
+El diseño es bastante bueno, al ocultar los componentes en funcion de lo seleccionado en la barra de tareas lo hace interesante.
+El html esta organizado y el css tambien, Se nota una estructura clara.
+Pero re utilizas bastante los tamaños para los dibujos, los carteles, etc. Y esos los podrias hacer en menos espacio utilizando css.
+En cuanto a validator habian 2 errores.
+El primero era que utilizabas <center> el cual ya no se utiliza sino que se utiliza el text-align en css. El otro que esta repetido vairas veces y es que para el tamaño de las imagenes el tamaño con un numero solo lo interpreta como pixeles por lo que genera erro si se pone px.
+Por utlimo, cuando lo revisiba en mi computador no me cargaron las imagenes con las direcciones que habian hasta que se psuo un . al inicio de la dirección.
