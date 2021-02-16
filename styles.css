@@ -61,7 +61,11 @@ li {
     border-top-width: 2px;
     border-top: solid white;
 }
-h1, h2, h3 {
+h1{
+    color: white;
+    text-align: center;
+}
+h2, h3 {
     color: white;
 }
 p {
